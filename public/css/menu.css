@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+      padding: 0;
+      background-color: whitesmoke;
+  }
+
+  header{
+    background-color: white;
+  }
+  nav{
+    background-color: black;
+  }
+  nav a{
+    margin-left: 350px;
+    color: white;
+    
+  }
+
+  #logo{
+    padding-top: 20px;
+    position: relative;
+    float: Center;
+    width: 200px;
+    height: 200px;
+    left: 45%;
+  }
+
+  #menu{
+    position: relative;
+    width: 900px;
+    height: 900px;
+    left: 25%;
+
+  }
+  footer{
+    text-align: center;
+    height: 200px;
+    background-color: black;
+    color: white;
+    
+}
+
